@@ -1,7 +1,7 @@
 # REACT WEBSITE
-This is front-end practice of delevelop a website about gym exercise with ReactJS.
+This is front-end practice of develop a website about gym exercise with ReactJS.
 
-### Technology in the website
+### Technologies in the website
 * Use **Rapid API** to get fake data.
 * Use **Material UI** for styles.
 * Use **React loader spinner** for loading icon.
